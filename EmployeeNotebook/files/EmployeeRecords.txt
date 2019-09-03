@@ -1,0 +1,3 @@
+Ivan|Petrov|1990|89172117000|0
+Oleg|Raskin|1985|454654|1
+Olga|Polyakova|2000|89854561238|2

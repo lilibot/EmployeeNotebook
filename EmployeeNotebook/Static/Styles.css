@@ -1,0 +1,56 @@
+﻿#addEmployeeForm label {
+    width: 120px;
+    display: inline-block;
+}
+
+label {
+    width: 120px;
+    display: inline-block;
+}
+
+#addEmployeeForm input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+#addEmployeeForm select {
+    margin: 2px 0;
+    width: 154px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 5px;
+}
+
+table, td, th {
+    border: thin solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: lemonchiffon;
+    text-align: left;
+    margin: 10px 0;
+}
+
+#validationEmployee {
+    color: red;
+}
+
+#blockAllRecords {
+    float: left;
+    width: 50%;
+}
+#blockFoundRecords {
+    float: right;
+    width: 50%;
+}
+body {
+    min-width: 1100px;
+}
